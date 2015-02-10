@@ -1,0 +1,49 @@
+.profile-name {
+	font-size: 1.2em;
+}
+
+.profile-list img {
+	max-width: 40%;
+	padding: 0 0 10px 10px;
+}
+
+.profile-major, .profile-minor {
+	font-size: .9em;
+}
+
+.profile-mm-holder {
+	padding-bottom: .5em;
+	margin-bottom: .5em;
+	border-bottom:1px solid #eee;
+}
+
+.widget .profile-mm-holder {
+	border: none;
+}
+
+.widget .profile-name {
+	padding-bottom:.5em;
+	display: block;
+}
+
+.widget .profile-excerpt {
+	padding-bottom: 10px;
+	color: #666;
+}
+
+#sidebar2 .widget .profile-mm-holder span {
+	display: inline-block
+}
+
+.profile-mm-holder span {
+	font-weight: 500;
+}
+
+.profile-title-holder {
+	font-size: .9em;
+	padding-bottom: 1em
+}
+
+.single-profile .meta {
+	display: none;
+}
